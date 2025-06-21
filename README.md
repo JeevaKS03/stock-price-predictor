@@ -21,4 +21,6 @@ A beginner-friendly project that uses **Linear Regression** to predict stock pri
 ## 🚀 How to Run
 
 pip install -r requirements.txt
+
+
 python stock_predictor.py
